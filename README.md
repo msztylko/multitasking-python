@@ -21,6 +21,6 @@ With the broken link checker application written in 4 different ways. The projec
   - [multiprocessing_check.py](./multiprocessing_check.py) - needed to explore multiprocessing in Jupyter Notebook
 - [benchmark.py](./benchmark.py) - main performance comparison of various approaches
 - [sequential_checker.py](./sequential_checker.py)
-- [mulithreading_checker.py](./mulithreading_checker.py)
+- [multithreading_checker.py](./multithreading_checker.py)
 - [multiprocessing_checker.py](./multiprocessing_checker.py)
 - [asyncio_checker.py](./asyncio_checker.py)
