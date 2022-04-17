@@ -5,7 +5,7 @@ sync/async/multithreading/multiprocessing python guide you wish you had found ea
 Parallel and concurrent processing in Python is confusig, mainly due to the [Global Interpreter Lock](https://wiki.python.org/moin/GlobalInterpreterLock) and many options to overcome it:  
 - [threading](https://docs.python.org/3/library/threading.html)
 - [multiprocessing](https://docs.python.org/3/library/multiprocessing.html)
-- [asyncio](https://docs.python.org/3/library/asyncio.html). 
+- [asyncio](https://docs.python.org/3/library/asyncio.html)
 
 and more ...
 
