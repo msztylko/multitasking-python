@@ -1,6 +1,6 @@
 # multitasking-python
 <p align="center">
-sync/async/multithreading/multiprocessing python guide you wish you had found earlier
+sync/async/multithreading/multiprocessing in Python
 <img src="https://github.com/msztylko/multitasking-python/blob/master/images/benchmark.png" data-canonical- width="400" height="600" align="center" />
 </p>
 
